@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ana",
+        "edad": 22,
+        "ciudad": "Tunja"
+    },
+
+       {
+        "id": 2,
+        "nombre": "Juan Pablo",
+        "edad": 47,
+        "ciudad": "Barracabermeja"
+    }
+]
